@@ -1,26 +1,43 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=header&text=Yuhyeon's Github&fontSize=50" />
-<h3 align="center"> Hi there 👋 I'm KwonJeongIn
-<h3 align="center"> My ability is.....
-<h3 align="center"> ✨fourth year video editor✨
-<h3 align="center"> 🌱first year junior developer🌱
-<h3 align="center"> 🤔 Second year game, viedo designer🤔 
-
-<h3 align="center"><b>📚 Languages 📚</b></h3>
+ ![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=150&section=header&text=KwonJeongIn%GitHub&fontSize=30&fontAlignY=50&animation=blink&fontColor=FFFFFF)
 </br>
-<p align="center">
+<b> Hi there 👋 I'm KwonJeongIn </b></h3>
+</br>
+<b> My ability is.....</b></h3>
+</br>
+<b> ✨Fourth Year Video Editor , Viedo Designer✨</b></h3>
+</br>
+<b> 🌱First Year Junior Developer , Game Designer 🌱</b></h3>
+</br>
+
+
+<b>📚 Languages 📚</b></h3>
+</br>
+
 <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
 </p>
 
-<h3 align="center"><b>🎮 Gaming 🎮</b></h3>
+<b>⚡ Tool ⚡
 </br>
-<p align="center">
-<img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white"/>
-<img src="https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white"/>
+<img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/adobephotoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white"/>
+<img src="https://img.shields.io/badge/adobepremierepro-9999FF?style=flat-square&logo=adobepremierepro&logoColor=white"/>
+<img src="https://img.shields.io/badge/adobeaftereffects-5A45FF?style=flat-square&logo=adobeaftereffects&logoColor=white"/>
+
+
+
+
+🎮 Game Engine 🎮</b></h3>
+</br>
+
+<img src="https://img.shields.io/badge/unity-%23000000.svg?style=flat-square&logo=unity&logoColor=white"/>
+<img src="https://img.shields.io/badge/unrealengine-%23313131.svg?style=flat-square&logo=unrealengine&logoColor=white"/>
 </p>
 
-<h3 align="center"><b>💌  Address 💌 </b></h3>
+<b>💌  Address 💌 </b></h3>
+</br>
+<img src="https://img.shields.io/badge/gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/> ad160515@gmail.com
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=footer"/>
+![Kwonjeongin's github stats](https://github-readme-stats.vercel.app/api?username=Kwonjeongin&show_icons=true)
 
 
 
