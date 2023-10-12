@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there 👋 I'm KwonJeongIn
+### My ability is.....
+### ✨fourth year video editor✨
+### 🌱first year junior developer🌱
+### 🤔 Second year game, viedo designer🤔 
+
+## I Used....
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kwonjeongin&show_icons=true&theme=radical)
 <!--
 **Kwonjeongin/Kwonjeongin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
