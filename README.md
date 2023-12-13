@@ -34,7 +34,7 @@
 </br>
 
 <img src="https://img.shields.io/badge/unity-%23000000.svg?style=flat-square&logo=unity&logoColor=white"/>
-<img src="https://img.shields.io/badge/unrealengine-%23313131.svg?style=flat-square&logo=unrealengine&logoColor=white"/>
+
 </p>
 </br>
 </br>
@@ -49,11 +49,13 @@
 </br>
 </br>
 
-![Kwonjeongin's github stats](https://github-readme-stats.vercel.app/api?username=Kwonjeongin&show_icons=true)
+
 
 
 
 <!--
+<img src="https://img.shields.io/badge/unrealengine-%23313131.svg?style=flat-square&logo=unrealengine&logoColor=white"/>
+![Kwonjeongin's github stats](https://github-readme-stats.vercel.app/api?username=Kwonjeongin&show_icons=true)
 **Kwonjeongin/Kwonjeongin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
