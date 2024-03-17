@@ -43,7 +43,7 @@
 
 <b>💌  Address 💌 </b></h3>
 </br>
-<img src="https://img.shields.io/badge/gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/> ad160515@gmail.com
+<a href="mailto:ad160515@gmail.com"><img src="https://img.shields.io/badge/gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/> 
 </br>
 </br>
 </br>
