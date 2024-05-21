@@ -17,6 +17,9 @@
 <b>📚 Languages 📚</b></h3>
 </br>
 <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/>
 </p>
 </br>
 </br>
@@ -26,6 +29,7 @@
 <img src="https://img.shields.io/badge/adobephotoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white"/>
 <img src="https://img.shields.io/badge/adobepremierepro-9999FF?style=flat-square&logo=adobepremierepro&logoColor=white"/>
 <img src="https://img.shields.io/badge/adobeaftereffects-5A45FF?style=flat-square&logo=adobeaftereffects&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
 </br>
 </br>
 </br>
