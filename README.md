@@ -1,36 +1,60 @@
- ![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=150&section=header&text=KwonJeongIn%GitHub&fontSize=30&fontAlignY=50&animation=blink&fontColor=FFFFFF)
+<div align= "center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0091ff,100:ecf000&height=240&text=Hi%20there%20👋%20I'm%20io3oi&animation=blink&fontColor=ffffff&fontSize=60" />
+    </div>
+    <div align= "center"> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">  I'm KwonJeongIn💻 </h2>  
+    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> </li>My ability is.....🐣</li><br></li>🎮Unity Developer🌱<br></li>🎮Unreal Developer 🌱<br></li>✨Video Editor✨<br>
+    </br>
+</br>
+</br>
+</br></div> 
+    </div>
+    <div align= "center">
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
+    <div style="margin: 0 auto; text-align: center;" align= "center"> 
+          <img src="https://img.shields.io/badge/unity-%23000000.svg?style=flat-square&logo=unity&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Unreal-0E1128?style=flat-square&logo=Unreal&logoColor=white"/><br/>
+          <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white">
+          <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white">
+          <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white">
+          <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white">
+          <img src="https://img.shields.io/badge/GitHub Pages-222222?style=flat-square&logo=GitHub Pages&logoColor=white">
+          <br/><img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white">
+          <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white">
+          <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white">
+          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white">
+          <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white">
+          <br/><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white">
+          <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white">
+          <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white">
+          <img src="https://img.shields.io/badge/adobephotoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white"/></br>
+          <img src="https://img.shields.io/badge/adobepremierepro-9999FF?style=flat-square&logo=adobepremierepro&logoColor=white"/>
+          <img src="https://img.shields.io/badge/adobeaftereffects-5A45FF?style=flat-square&logo=adobeaftereffects&logoColor=white"/>
 </br>
 </br>
 </br>
 </br>
-<b> Hi there 👋 I'm KwonJeongIn </b></h3>
-</br>
-<b> My ability is.....</b></h3>
-</br>
-<b> ✨Fourth Year Video Editor , Viedo Designer✨</b></h3>
-</br>
-<b> 🌱First Year Junior Developer , Game Designer 🌱</b></h3>
 </br>
 </br>
+          </div>
+    </div>
+    <div align= "center">
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
+    <div align= "center"> <a href=mailto:ad160515@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ad160515@gmail.com"> </a>
+          </div> </br>
 </br>
 </br>
-<b>📚 Languages 📚</b></h3>
-</br>
-<img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/>
-</p>
 </br>
 </br>
-<b>⚡ Tool ⚡
-</br>
-<img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white">
-<img src="https://img.shields.io/badge/adobephotoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white"/>
-<img src="https://img.shields.io/badge/adobepremierepro-9999FF?style=flat-square&logo=adobepremierepro&logoColor=white"/>
-<img src="https://img.shields.io/badge/adobeaftereffects-5A45FF?style=flat-square&logo=adobeaftereffects&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
-</br>
+</br> <br> 
+    <div align= "center"> <a href="https://hits.seeyoufarm.com"> <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKwonTsuki%2F&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false"/></a>
+       </div> 
+    </div>
+    <div align= "center"> 
+   
+    
+
+
 </br>
 </br>
 </br>
@@ -50,6 +74,7 @@
 <a href="mailto:ad160515@gmail.com"><img src="https://img.shields.io/badge/gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/> 
 </br>
 </br>
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKwonjeongin&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 </br>
 </br>
 
