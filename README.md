@@ -3,7 +3,7 @@
     </div>
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">  I'm KwonJeongIn💻 </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> </li>My ability is.....🐣</li><br></li>🎮Unity Developer(2D / 3D/ VR / AR)🌱<br></li>🎮Unreal Developer (VR / Interactive Art) 🌱<br></li>🎥Video Editor( Movie/ AD / MediaArt )🎥<br>
+    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> </li>My ability is.....🐣</li><br></li>🎮Unity Developer( 2D / 3D / VR / AR / XR / VFX )🌱<br></li>🎮Unreal Developer (cinematic) 🌱<br></li>🎥Video Editor( Movie / PD / MediaArt )🎥<br>
     </br>
 </br>
 </br>
@@ -13,11 +13,9 @@
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
     <div style="margin: 0 auto; text-align: center;" align= "center"> 
           🎮 : <img src="https://img.shields.io/badge/Unity-%23000000.svg?style=flat-square&logo=unity&logoColor=white"/>
-          <img src="https://img.shields.io/badge/unrealengine-0E1128?style=flat-square&logo=unrealengine&logoColor=white"/><br>
-          <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white">
+          <img src="https://img.shields.io/badge/unrealengine-0E1128?style=flat-square&logo=unrealengine&logoColor=white"/>
           <img src="https://img.shields.io/badge/csharp-512BD4?style=flat-square&logo=csharp&logoColor=white">
-          <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white">
-          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"><br/>
+          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white">
           <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white">
           <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"><br>
           👬  : <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white">
