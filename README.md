@@ -5,6 +5,15 @@
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">  I'm KwonJeongIn💻 </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> </li>My ability is.....🐣</li><br></li>🎮Unity Developer( 2D / 3D / VR / AR / XR / VFX )🌱<br></li>🎮Unreal Developer (cinematic) 🌱<br></li>🎥Video Editor( Movie / PD / MediaArt )🎥<br>
     </br>
+        
+<a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/lines/Kwonjeongin"
+    width="600"
+    height="120"
+  />
+</a>
+  
 </br>
 </br>
 </br></div> 
