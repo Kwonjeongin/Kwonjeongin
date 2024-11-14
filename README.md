@@ -1,28 +1,16 @@
-<div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0091ff,100:ecf000&height=240&text=🍀%20io3oi%20🍀&animation=blink&fontColor=ffffff&fontSize=60" />
+
+</br></div> 
     </div>
-    <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">  I'm io3oi💛 </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> </li>My ability is.....🐣</li><br></li>🎮Unity Developer( 2D / 3D / VR / AR / XR / VFX )🌱<br></li>🎮Unreal Developer (cinematic) 🌱<br></li>🎥Video Editor( Movie / PD / MediaArt )🎥<br>
-    </br>
-        
-
-<a href="https://github.com/devxb/gitanimals">
-  <img
-    src="https://render.gitanimals.org/lines/Kwonjeongin?pet-id=644350903010202001"
-    width="600"
-    height="120"
-  />
-</a>
-  
-
-</a>
+    <div align= "center">![제목을-입력해주세요_](https://github.com/user-attachments/assets/e6748d73-b9a0-4a26-867c-e0ce635b0c64)
   
 </br>
 </br>
 </br></div> 
     </div>
     <div align= "center">
+         <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">  I'm io3oi💛 </h2>  
+    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> </li>My ability is.....🐣</li><br></li>🎮Unity Developer( 2D / 3D / VR / AR / XR / VFX )🌱<br></li>🎮Unreal Developer (cinematic) 🌱<br></li>🎥Video Editor( Movie / PD / MediaArt )🎥<br>
+    </br>
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
     <div style="margin: 0 auto; text-align: center;" align= "center"> 
           🎮 : <img src="https://img.shields.io/badge/Unity-%23000000.svg?style=flat-square&logo=unity&logoColor=white"/>
